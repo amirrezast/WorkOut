@@ -1,3 +1,3 @@
 hello 
 hi 
-we're in vscode
+we are in vscode
